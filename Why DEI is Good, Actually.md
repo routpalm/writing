@@ -1,4 +1,4 @@
-Why DEI is Good, Actually 
+# Why DEI is Good, Actually 
 
 I’ll admit: I don’t know a lot about DEI initiatives. Not any more than the average about-to-be-new-graduate who has never entered the workforce other than various food service jobs. But that’s exactly why DEI is a contentious issue, I think: It has been reduced and boiled down until it’s burned on the proverbial pan. No one really knows what it means, and when that blackened mess adorns their perfectly roasted chicken, they cry foul. On the part of American conservatives, I have heard (straight from the horse’s mouth) that DEI is an ideological litmus test, reverse discrimination, and undermines good-old American “meritocracy.” I naturally mistrust conservative characterizations of identity politics-based issues, I will concede that, but to the majority of the Republican population who are [mostly blue collar workers](https://www.zippia.com/advice/democratic-vs-republican-jobs/), DEI is mostly foreign to them; they simply lack the hands-on experience with its reasons for existence, mechanisms, and actual outcomes to form an educated opinion. So I think my burden of proof that DEI is “discriminatory against white men” needs more than the classic paltry anecdotal evidence \+ rhetoric combo that the right goes gaga for (see: [The Laken Riley Act](https://www.congress.gov/bill/119th-congress/senate-bill/5))[^1]. 
 
@@ -12,7 +12,7 @@ Do you know about the [glass cliff](https://en.wikipedia.org/wiki/Glass_cliff?)?
 
 Ultimately, my point is—cynicism over conservative sincerity aside—I am operating from a similar level of knowledge as those who confidently sneer at something they don’t understand. That makes me a little sad. So I did some research, and I’m going to respond to the “DEI is bad” argument as best I can without deviating too much from the point.[^3]
 
-The (Meritocratic) Merit of DEI
+## The (Meritocratic) Merit of DEI
 
 The main argument against DEI is its purported “preference” for historically marginalized groups over white men. Those who feel threatened by DEI hiring practices believe that organizations that implement it distort merit-based hiring and hire people, for example, “just because they’re black.” That’s a major oversimplification. In practice, it may lead to less white people being hired, but not because there’s a preference for hiring black people. To insert my own oversimplification, they’re merely getting rid of their preference for hiring white people. 
 
@@ -29,7 +29,7 @@ Now with these last couple of points you may be asking: “What is the actual be
 
 The point of DEI initiatives is not to lower hiring standards, but **increase the pool of applicants** and ensure that merit is the primary consideration. It logically follows that this will include reducing bias. The perceived reduction in white hires is not a hostile takeover, it is a correction to a [historic overrepresentation](https://cepr.net/publications/the-continuing-power-of-white-preferences-in-employment/). To succeed, you need to be better than your peers, that much we can agree on. Now, unfortunately for us white dudes, the fight is more fair.[^4] 
 
-There Is A Real Economic Benefit To Being Diverse
+## There Is A Real Economic Benefit To Being Diverse
 
 Gasp. Diversity is *not* just a scam to make yourself more appealing to your left-leaning audience? The horror. There should be nothing surprising about this fact: Diversity is directly and quantifiably responsible for greater profits and productivity. Companies follow the money (and if they can cash in on easy PR points, they’ll do that too). Some rapid-fire facts: 
 
@@ -40,11 +40,11 @@ Gasp. Diversity is *not* just a scam to make yourself more appealing to your lef
 
 So while we can all turn our collective noses at the blatantly performative “We’re so gay\! We’re so diverse\!” corporate messaging, there is a practicality behind it that goes beyond trying to score easy reputation points. Companies like Salesforce, Google, or Microsoft have successful DEI stories: it led to increased productivity, psychological safety, innovation, to name just a few positives. Feel free to look it up; they were very happy to tell us all about it so they could cash in said PR-bux.
 
-People In The Workforce Actually Care About Diversity
+## People In The Workforce Actually Care About Diversity
 
 The hiring goal of any organization is to attract and retain top talent. Top talent, by and large, [values diverse and inclusive work environments](https://www.glassdoor.com/blog/glassdoors-diversity-and-inclusion-workplace-survey/). So companies are incentivized to build diverse and inclusive work environments. We could leave it at that (and remove a fair bit of snark) and have a fairly convincing case for DEI. 
 
-DEI Is Not Incompatible With Conservative Ideals
+## DEI Is Not Incompatible With Conservative Ideals
 
 The basic principles of DEI—that is to say, fairness, inclusivity, and opportunity—are not, in theory, at odds with the conservative ethos. I would argue (in fact, I would *insist*) that the reason why conservatives so fervently dislike the concept of DEI is that it has been distorted and demonized in such a way, combined with examples of DEI-gone-wrong whether valid or completely untrue, that to say DEI in some spaces is comparable to saying “anti-white.” The main contributor to this effect is, in my view, a combination of cherry-picking (because they have no statistics or real data to show DEI is bad), and a cognitive distortion that I will henceforth define as the “Perverse Incentive Fallacy”: 
 
@@ -58,7 +58,7 @@ Here is the linear chain of events I have seen conservatives claim occurs (and i
 
 No wonder they think liberals are stupid. Everything is dumbed down and spoon-fed to them by whatever [Russian agent[^5]](https://www.nytimes.com/2022/04/15/technology/russia-media-fox-news.html) is currently clocked in, and those with half of a brain can see that there something isn’t quite right about it. Instead of looking in, however, their eyes narrow forever outward, scanning an empty horizon. Must be depressing. 
 
-DEI’m About Finished…
+## DEI’m About Finished…
 
 Just to be fully honest and transparent, the vast majority of this article was written post-argument with a “center-right” mutual friend of my roommate’s. It has a certain *je ne sais quoi* (that is to say, a latent anger) that is hard to replicate once I’ve calmed down and moved on to more important things. I did, half-heartedly at least, try to continue writing—I looked up and read conservative-leaning deconstructions of DEI and criticisms thereof, but I found nothing that couldn’t be reduced down to a fundamental misunderstanding of DEI or its aims. And boy, is it tiring to inundate oneself with fallacy after cognitive distortion after lie. We all know that brand of exasperation by now, don’t we? 
 
