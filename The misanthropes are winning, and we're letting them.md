@@ -1,3 +1,6 @@
+December 1, 2025
+
+
 When Homo erectus began cooking meat millions of years ago, probably completely by accident, the calories previously used to digest food kick-started brain growth and consequently gave us more time to develop tools and technologies rather than chew all day like most animals. More tools and technologies meant even more time to figure out what this gigantic blue sphere is all about, and fast forward two million years, the former Homo erectus is, by and large, sitting eight hours a day in the office, because of the "knowledge economy." 
 
 
