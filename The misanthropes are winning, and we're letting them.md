@@ -12,7 +12,9 @@ To say average Americans are solely victims is unimaginably wrong. The overuse o
 
 A friend of mine recently drove from San Francisco to Sacramento, and almost got hit twice by people driving carelessly. He vented to me afterward:
 
-The people around you are supposed to be on the same team. We're all just trying to get home, at the end of the day, but I feel like people view each other as enemies. The reason we drive is because there is a system that we all buy into that allows us to. In driving school they teach you defensive driving techniques; they teach you to signal; they teach you that you should always try to move predictably. Why? Because it helps the other drivers around you. By helping them, you help yourself. You're safer because you're acting in a way that makes others safe too. But it feels like not many people think this way about it. When people act selfishly on the road, they are not actively participating in the system. People are set in their ways, and I think it comes from a severe lack of understanding and purpose.
+> The people around you are supposed to be on the same team. We're all just trying to get home, at the end of the day, but I feel like people view each other as enemies. The reason we drive is because there is a system that we all buy into that allows us to.
+> In driving school they teach you defensive driving techniques; they teach you to signal; they teach you that you should always try to move predictably. Why? Because it helps the other drivers around you. By helping them, you help yourself. You're safer because you're acting in a way that makes others safe too.
+> But it feels like not many people think this way about it. When people act selfishly on the road, they are not actively participating in the system. People are set in their ways, and I think it comes from a severe lack of understanding and purpose.
 
 We buy into systems for different reasons, and if there isn't consensus and enforcement on the nature of the system, our reasons shape the way we perceive and act within it. Writers and artists who embrace AI believe they operate inside of an industry; a do-what-you-have-to-do claw-to-the-top hellscape where human creativity is not important if you can evoke any kind of emotional response from your prompts, and therefore can eclipse other artists financially based on sheer volume. The more people view systems as such and are rewarded for it—and considering the way people view society is informed in a significant way by how other people succeed within it—the more every facet of our lives becomes an every-man-for-himself climb to the top where we can and should discard pieces of ourselves to carry less weight. (This was true before the Internet and social media and AI, and doubly or triply true now.) We hold our peers to lower and lower standards while simultaneously holding ourselves to lower and lower standards. We now expect work to not even be fully our work, but an unholy amalgamation consisting of an iterative loop of prompting and human editing. 
 
@@ -20,17 +22,14 @@ It almost feels naive to disparage others who are debasing themselves by followi
 
 But to shelve one's reliance on and limits of the brain, for whatever reason, is a hard-line stance in and of itself. I see such opinions every day:
 
-    Everyone is using AI for essays and getting good grades, which is increasing the standard of writing, so I have to use AI too.
-
-    If the people around me are using AI for their work and being perceived as more productive, I need to use it to be perceived that way too. 
-
-    I can't afford a therapist, and I need to talk through my problems with someone, so I need to use Chat. 
-
-    I can't draw, and want to illustrate my writing, so AI art is better than nothing.
+> Everyone is using AI for essays and getting good grades, which is increasing the standard of writing, so I have to use AI too.
+> If the people around me are using AI for their work and being perceived as more productive, I need to use it to be perceived that way too. 
+> I can't afford a therapist, and I need to talk through my problems with someone, so I need to use Chat. 
+> I can't draw, and want to illustrate my writing, so AI art is better than nothing.
 
 I have one response to these lines of thinking:
 
-Some people die at 25, and aren't buried until 75. - Benjamin Franklin
+_Some people die at 25, and aren't buried until 75._ - Benjamin Franklin
 
 --
 
