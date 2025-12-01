@@ -12,7 +12,7 @@ Some laud the shifting values of modern American society (thanks, Reagan) toward
 I'd rather not invoke the two-letter word here yet—I've just driven across the Golden Gate Bridge to SFO, and I'm about done with the acronym and its disgusting, ugly pronunciation (the human mouth seems aptly ill-prepared to say _ayyy-eye_). Despite the great, boundless, and infinite respect that I have for, ahem, Bay Area _disruptors_, they are betting on humanity's downfall. More than that, they are contributing to it—**and so are we**.
 
 
-I don't want to appear as a "concerned citizen" finger-wagging perceived moral decay, but how could I not when the billionaire-that-shall-not-be-named pauses when asked the most softball question conceivable: _should humanity survive?_ Fantastically, to a not-insignificant portion of the human population, the answer is: _not if I have something to gain from it._
+I don't want to appear as a "concerned citizen" finger-wagging perceived moral decay, but how could I not when the billionaire-that-shall-not-be-named _pauses_ when asked the most softball question conceivable: _should humanity survive?_ Fantastically, to a not-insignificant portion of the human population, the answer is: _not if I have something to gain from it._
 
 --
 
