@@ -1,14 +1,18 @@
 When Homo erectus began cooking meat millions of years ago, probably completely by accident, the calories previously used to digest food kick-started brain growth and consequently gave us more time to develop tools and technologies rather than chew all day like most animals. More tools and technologies meant even more time to figure out what this gigantic blue sphere is all about, and fast forward two million years, the former Homo erectus is, by and large, sitting eight hours a day in the office, because of the "knowledge economy." 
 
-Some laud the shifting values of modern American society (thanks, Reagan) towards the mind's lurid profit-motivated machinations rather than what we make with our hands. In a world with highly developed calorie liberation techniques, where the average white-collar citizen plays practically no part in the sourcing of our food, the construction of our shelter, or the stoking of our heat sources, (and if they are, they're usually making a buck off the backs of blue collar labor) the human brain is, above all else, the driver of value. The eye of human organization is focused squarely on what we drum up from our brains; it's why being a center—or an apostle—of culture, ideas, and services translates almost directly to decision-making power, social standing, and economic well-being. No one is betting on the significance of culture to change. They are, however, betting on who is creating the ideas, the services, and the content. And the favorite, as of recent, isn't us. 
 
-I'd rather not invoke the two-letter word here yet—I've just driven across the Golden Gate Bridge to SFO, and I'm about done with the acronym and its disgusting, ugly pronunciation (the human mouth seems aptly ill-prepared to say ayyy-eye). Despite the great, boundless, and infinite respect that I have for, ahem, Bay Area disruptors, they are betting on humanity's downfall, and more than that, they are contributing to it, and so are we.
+Some laud the shifting values of modern American society (thanks, Reagan) towards the mind's lurid profit-motivated machinations rather than what we make with our hands. In a world with highly developed calorie liberation techniques, where the average white-collar citizen plays practically no part in the sourcing of our food, the construction of our shelter, or the stoking of our heat sources, (and if they are, they're usually making a buck off the backs of blue collar labor) the human brain is, above all else, the driver of value. The eye of human organization is focused squarely on what we drum up from our brains; it's why being a center—or an apostle—of culture, ideas, and services translates almost directly to decision-making power, social standing, and economic well-being. No one is betting on the significance of culture to change. They are, however, betting on _who_ is creating the ideas, the services, and the content. And the favorite, as of recent, isn't us. 
 
-I don't want to appear as a "concerned citizen" finger-wagging perceived moral decay, but how could I not when the billionaire-that-shall-not-be-named pauses when asked the most softball question conceivable: should humanity survive? Fantastically, to a not-insignificant portion of the human population, the answer is: not if I have something to gain from it.
+
+I'd rather not invoke the two-letter word here yet—I've just driven across the Golden Gate Bridge to SFO, and I'm about done with the acronym and its disgusting, ugly pronunciation (the human mouth seems aptly ill-prepared to say _ayyy-eye_). Despite the great, boundless, and infinite respect that I have for, ahem, Bay Area _disruptors_, they are betting on humanity's downfall, and more than that, they are contributing to it, **and so are we**.
+
+
+I don't want to appear as a "concerned citizen" finger-wagging perceived moral decay, but how could I not when the billionaire-that-shall-not-be-named pauses when asked the most softball question conceivable: _should humanity survive?_ Fantastically, to a not-insignificant portion of the human population, the answer is: _not if I have something to gain from it._
 
 --
 
 To say average Americans are solely victims is unimaginably wrong. The overuse of AI, especially for creative problem-solving tasks, has began to induce a cognitive atrophy more severe than any single-origin drop in brainpower ever. My generation is dropping off a cliff, cognitively, and not to pass the buck to AI, but to say that it hasn't massively accelerated our collective eye-glazing is dishonest. This technology was dropped on us almost without warning and without any guardrails or suggestions for responsible usage, but I reject the fact that people simply don't have enough self-control to stop from confessing crimes to AI, using it as a lawyer or as a therapist, having it write essays for them, or having it make decisions for them. We just don't expect great things from each other anymore. 
+
 
 A friend of mine recently drove from San Francisco to Sacramento, and almost got hit twice by people driving carelessly. He vented to me afterward:
 
@@ -23,8 +27,11 @@ It almost feels naive to disparage others who are debasing themselves by followi
 But to shelve one's reliance on and limits of the brain, for whatever reason, is a hard-line stance in and of itself. I see such opinions every day:
 
 > Everyone is using AI for essays and getting good grades, which is increasing the standard of writing, so I have to use AI too.
-> If the people around me are using AI for their work and being perceived as more productive, I need to use it to be perceived that way too. 
-> I can't afford a therapist, and I need to talk through my problems with someone, so I need to use Chat. 
+
+> If the people around me are using AI for their work and being perceived as more productive, I need to use it to be perceived that way too.
+
+> I can't afford a therapist, and I need to talk through my problems with someone, so I need to use Chat.
+
 > I can't draw, and want to illustrate my writing, so AI art is better than nothing.
 
 I have one response to these lines of thinking:
