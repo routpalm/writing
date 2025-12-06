@@ -11,9 +11,6 @@ Some laud the shifting values of modern American society (thanks, Reagan) toward
 
 I'd rather not invoke the two-letter word here yet—I've just driven across the Golden Gate Bridge to SFO, and I'm about done with the acronym and its disgusting, ugly pronunciation (the human mouth seems aptly ill-prepared to say _ayyy-eye_). Despite the great, boundless, and infinite respect that I have for, ahem, Bay Area _disruptors_, they are betting on humanity's downfall. More than that, they are contributing to it—**and so are we**.
 
-
-I don't want to appear as a "concerned citizen" finger-wagging perceived moral decay, but how could I not when the billionaire-that-shall-not-be-named _pauses_ (!) when asked the most softball question conceivable: _should humanity survive?_ Fantastically, to a not-insignificant portion of the human population, the answer is: _not if I have something to gain from it._
-
 --
 
 To say average Americans are solely victims is unimaginably wrong. The overuse of AI, especially for creative problem-solving tasks, has began to induce a cognitive atrophy more severe than any single-origin drop in brainpower ever. My generation is dropping off a cliff, cognitively, and not to pass the buck to AI, but to say that it hasn't massively accelerated our collective eye-glazing is dishonest. This technology was dropped on us almost without warning and without any guardrails or suggestions for responsible usage, but I reject the fact that people simply don't have enough self-control to stop from confessing crimes to AI, using it as a lawyer or as a therapist, having it write essays for them, or having it make decisions for them. **We just don't expect great things from each other anymore.** 
